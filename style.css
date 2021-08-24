@@ -1,0 +1,27 @@
+nav {
+    
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: rgb(170, 55, 55);
+    color: ghostwhite;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+nav ul li {
+    list-style-type: none;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; */
+}
+
+a {
+    text-decoration: none;
+}
+
